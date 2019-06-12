@@ -8,7 +8,7 @@ import javax.swing.JPanel;
 
 public class BarPanel extends JPanel{
 	private Block bar;
-	private int height = 700;
+	private int height = 680;
 	private Main main;
 	private boolean size = false;
 	

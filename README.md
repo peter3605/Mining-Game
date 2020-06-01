@@ -2,4 +2,4 @@
 
 My Java implementation of one of my favorite Pokemon subgames using Java Swing for the GUI and Java Graphics for the display.
 
-** Created this as a sophomore in high school
+** Created this for my high school computer science class in 2016-2017
